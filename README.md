@@ -1,5 +1,3 @@
-![.](...)
-
 <h1 align="center"> Donovan Willot  </h1>
 <p align="center">
 <a href="https://donovanwillot.github.io/"><img alt="Site CV Html" src="https://cdn.discordapp.com/attachments/925001464382906368/939682109059129404/dev.png" height="100"></a>
